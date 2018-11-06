@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=EuOYd3tYf5A&feature=youtu.be&fbclid=IwAR2RS6NIDp
 https://skippergamedev.tumblr.com/
 
 Important Notes :
-Initial development and construction of the game was by Christopher and Sean. Game has been altered and updated by the rest of the team, I was responsible for the creation of the Server and Server Room (Including texturing and object placement).
+Initial development and construction of the game was by Christopher and Sean. Game has been altered and updated by the rest of the team, I was responsible for the creation of the Engine and Server Room (Including texturing and object placement).
 
 
 Programmers :
